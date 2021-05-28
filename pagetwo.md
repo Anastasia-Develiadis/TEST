@@ -1,5 +1,5 @@
 ---
-title: <the second page>
+title: the second page
 layout: default
 nav_order: 2
 ---
