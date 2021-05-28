@@ -33,7 +33,8 @@ this mf *italicized*
 pros| cons
 ------------ | -------------
 good | bad 
-Content in the first column | Content in the second column
+
 
 # dayum 
+
 :hot_face:
